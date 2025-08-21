@@ -66,7 +66,9 @@ The project follows a **Three-Layer Architecture**:
 - 📱 Integrate with mobile applications for customers and staff.
 - ⚡ Optimize performance for large-scale homestay or hotel operations.
 
-## 🖼️ Login Form
+## 📷 Screenshots
+
+### 🖼️ Login
 
 ![Login](https://drive.google.com/uc?export=view&id=14VFy8Lg4W8D0928ZM8gj9HoyyO_T8lhT)
 
@@ -74,17 +76,17 @@ The project follows a **Three-Layer Architecture**:
 
 ![Dashboard](https://drive.google.com/uc?export=view&id=1GUl2gw0sM6QQtJw6pVV22MwSuh4FjynP)
 
-### 🖼️ Booking Form
+### 🖼️ Booking 1
 
-![Booking](https://drive.google.com/uc?export=view&id=1VihsJLAikqOkvx3VDnfYUJowZ6O9Dpuf)
+![Booking 1](https://drive.google.com/uc?export=view&id=1VihsJLAikqOkvx3VDnfYUJowZ6O9Dpuf)
 
-### 🖼️ Invoice
+### 🖼️ Booking 2
 
-![Invoice](https://drive.google.com/uc?export=view&id=1dBWZsoecieQNa1W3JLr3HmDbo7EcnwZu)
+![Booking 2](https://drive.google.com/uc?export=view&id=1dBWZsoecieQNa1W3JLr3HmDbo7EcnwZu)
 
 ### 🖼️ Customer Management
 
-![Customer](https://drive.google.com/uc?export=view&id=1ooVObi7eBV3YPLwVnINmle0M55BDmD3w)
+![Customer Management](https://drive.google.com/uc?export=view&id=1ooVObi7eBV3YPLwVnINmle0M55BDmD3w)
 
 ### 🖼️ Statistics
 
