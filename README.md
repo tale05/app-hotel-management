@@ -70,27 +70,27 @@ The project follows a **Three-Layer Architecture**:
 
 ### 🖼️ Login
 
-![Login](https://drive.google.com/uc?export=view&id=14VFy8Lg4W8D0928ZM8gj9HoyyO_T8lhT)
+![Dashboard](https://drive.google.com/uc?export=view&id=1GUl2gw0sM6QQtJw6pVV22MwSuh4FjynP)
 
 ### 🖼️ Dashboard
 
-![Dashboard](https://drive.google.com/uc?export=view&id=1GUl2gw0sM6QQtJw6pVV22MwSuh4FjynP)
+![Booking 1](https://drive.google.com/uc?export=view&id=1VihsJLAikqOkvx3VDnfYUJowZ6O9Dpuf)
 
 ### 🖼️ Booking 1
 
-![Booking 1](https://drive.google.com/uc?export=view&id=1VihsJLAikqOkvx3VDnfYUJowZ6O9Dpuf)
+![Booking 2](https://drive.google.com/uc?export=view&id=1dBWZsoecieQNa1W3JLr3HmDbo7EcnwZu)
 
 ### 🖼️ Booking 2
 
-![Booking 2](https://drive.google.com/uc?export=view&id=1dBWZsoecieQNa1W3JLr3HmDbo7EcnwZu)
+![Customer Management](https://drive.google.com/uc?export=view&id=1ooVObi7eBV3YPLwVnINmle0M55BDmD3w)
 
 ### 🖼️ Customer Management
 
-![Customer Management](https://drive.google.com/uc?export=view&id=1ooVObi7eBV3YPLwVnINmle0M55BDmD3w)
+![Statistics](https://drive.google.com/uc?export=view&id=1wTkScLs20LKpHxri2GUxzWSjji-LoK_F)
 
 ### 🖼️ Statistics
 
-![Statistics](https://drive.google.com/uc?export=view&id=1wTkScLs20LKpHxri2GUxzWSjji-LoK_F)
+![Login](https://drive.google.com/uc?export=view&id=14VFy8Lg4W8D0928ZM8gj9HoyyO_T8lhT)
 
 ## 📜 License
 
